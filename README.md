@@ -24,6 +24,6 @@
 
 ---
 
-## 🐍 Snake comendo meus commits
-
-![snake gif](https://github.com/phyffsy/phyffsy/blob/main/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydHZpMGV3N3EweDF1bTR1OWVpbjZ4eDc2cmtjd3A1aGpsaGVtZG9jZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/200.gif" height="150"/>
+</p>
