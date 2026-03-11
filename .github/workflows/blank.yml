@@ -1,14 +1,11 @@
 name: generate-snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
@@ -18,7 +15,7 @@ jobs:
           github_user_name: phyffsy
           outputs: github-contribution-grid-snake.svg
 
-      - name: Commit SVG
+      - name: Commit snake SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
