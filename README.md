@@ -1,27 +1,28 @@
-<h1 align="center">👋 Bem-Vindo, eu sou o Pietro</h1>
+<h1 align="center">👋 Bem-vindo, eu sou o Pietro</h1>
 
 <p align="center">
-💻 Tecnico em ADS <br>
-🚀 Full Stack Jr
-🩵HTML, CSS, JAVA, JAVA SCRIPT, REACT NATIVE, BOOTSTRAP.
+💻 Técnico em ADS <br>
+🚀 Full Stack Jr <br>
+🩵 HTML, CSS, Java, JavaScript, React Native, Bootstrap
 </p>
 
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
 </p>
 
 ---
 
 ## 📊 Estatísticas
-<div style="display:flex; gap:30px; justify-content:center;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phyffsy&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyffsy&layout=compact&theme=tokyonight"/>
+<div align="center" style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phyffsy&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyffsy&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </div>
+
 ---
 
 <p align="center">
