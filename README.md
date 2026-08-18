@@ -18,7 +18,7 @@
 
 ## 📊 Estatísticas
 
-<div align="center" style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phyffsy&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyffsy&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </div>
@@ -26,5 +26,9 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/36/cc/32/36cc321443a1c5b2bd759668bda0cbdb.gif" height="150"/>
+  <img 
+    src="https://i.pinimg.com/originals/36/cc/32/36cc321443a1c5b2bd759668bda0cbdb.gif"
+    width="95%"
+    height="180"
+  />
 </p>
